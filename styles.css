@@ -1,0 +1,13 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+h1 {
+    color: #3fb5c7;
+}
+table {
+    width: 60%;
+    border-collapse: collapse;
+}
+table, th, td {
+    border: 2px solid rgb(0, 0, 0);
+}
